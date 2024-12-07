@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0Y7d2oKnmsyi7rvul4eOBZjGQPm9S4ekIjSG+P/jk5M=",
+  "Source": "WildlifePoaching.API",
+  "BasePath": "_content/WildlifePoaching.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
